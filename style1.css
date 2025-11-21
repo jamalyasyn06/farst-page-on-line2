@@ -1,0 +1,116 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.carte{
+   
+    width: 400px;
+    height: auto;
+    background:url(Programme-Minhaty.jpg) no-repeat;
+    background-size: 150px;
+    background-position: center ;
+    margin-top: 50px;
+    border-radius: 20px;
+    border: solid 1px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.barid{
+    width: 150px;
+    height: min-content;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+    background-color: brown;
+    border-radius: 20px 0 50px 0;
+
+
+}
+.maroc{
+    width: 50px;
+    display: flex;
+    padding-left: 40px;
+}
+p{
+    margin-bottom: 0;
+    margin-top: 0;
+    font-size: 13px;
+}
+.maroc-t{
+    display: grid;
+}
+.center{
+    display: flex;
+    margin-top: 15px;
+    margin-left: 10px;
+    justify-content: space-between;
+
+}
+.wifi{
+    height: 40px;
+    margin-right: 10px;
+}
+.code{
+    border: solid 1px;
+    height: 40px;
+}
+.minha{
+    margin-right: 10px;
+}
+.hello{
+  font-size: larger;
+  padding-left:10px ;
+}
+.hi{
+    font-size: 30px;
+    font-family: "Marhey", sans-serif;
+    margin-bottom: -1px;
+}
+.center2 {
+  display: flex;
+  justify-content: space-between ;
+  margin-right: 40px;
+  margin-left: 40px;
+
+}
+.number{
+    font-size: 20px;
+    opacity:  0.6;
+    
+}
+.date{
+    color: rgba(63, 59, 59, 0.425);
+    display:flex ;
+    justify-content: center;
+    margin-top: 20px ;
+    margin-left: 170px;
+    opacity: 0.9;
+}
+.triangle{
+    display: flex;
+    height: 60px;
+    width: 26px;
+    
+}
+.footer{
+display: flex;
+}
+.final{
+    margin-top: 0;padding-top: 0;
+    margin-left: 20px;
+
+}
+.end{
+    display: flex;
+    justify-content: space-between;
+}
+.visa{
+    color: rgb(50, 5, 175);
+    font-size: 30px;
+    margin-right: 10px;
+
+}
